@@ -29,6 +29,7 @@ function App() {
       </main>
       <footer>
         <p>Навчаюсь React та TypeScript з Vite!</p>
+        <small>by subvinc</small>
       </footer>
     </div>
   );
